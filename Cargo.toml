@@ -1,0 +1,9 @@
+[package]
+
+name = "ISBN"
+version = "0.0.1"
+authors = ["sirlag@sirlag.me"]
+
+[[bin]]
+
+name = "ISBN"
